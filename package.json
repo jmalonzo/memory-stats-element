@@ -1,0 +1,30 @@
+{
+  "name": "memory-stats-element",
+  "version": "1.0.0",
+  "description": "Custom element for memory-stats.jsMinimal monitor for JS Heap Size via performance.memory",
+  "main": "memory-stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmalonzo/memory-stats-element.git"
+  },
+  "keywords": [
+    "performance",
+    "memory",
+    "chrome"
+  ],
+  "author": "Jan Alonzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmalonzo/memory-stats-element/issues"
+  },
+  "homepage": "https://github.com/jmalonzo/memory-stats-element",
+  "devDependencies": {
+    "grunt": "^0.4",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "jshint-stylish": "^1.0.0"
+  }
+}

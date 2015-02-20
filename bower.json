@@ -1,0 +1,28 @@
+{
+  "name": "memory-stats-element",
+  "version": "1.0.0",
+  "authors": [
+    "Jan Alonzo <jmalonzo@gmail.com>"
+  ],
+  "description": "Custom element for memory-stats.js",
+  "main": "memory-stats-element.js",
+  "keywords": [
+    "memory",
+    "webcomponents",
+    "chrome",
+    "performance"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jmalonzo/memory-stats-element",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "memory-stats": "*",
+    "webcomponentsjs": "~0.5.5"
+  }
+}
