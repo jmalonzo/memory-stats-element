@@ -33,3 +33,6 @@ add the following anywhere inside the `<body>` of your HTML element.
 <memory-stats></memory-stats>
 ```
 
+## Ack
+
+Thanks to [@paulirish's](https://github.com/paulirish/memory-stats.js) memory-stats.js project.
